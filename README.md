@@ -230,12 +230,6 @@ timeline
 
 <br/><br/>
 
-<!-- Contribution snake: needs the workflow in .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadham1412/Sadham1412/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadham1412/Sadham1412/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sadham1412/Sadham1412/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
