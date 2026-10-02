@@ -233,7 +233,7 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ocean&height=2" width="100%" />
 
 <!-- ============================= CONTACT ============================= -->
 
