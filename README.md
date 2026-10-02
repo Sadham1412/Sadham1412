@@ -1,52 +1,61 @@
- 👋 Hi, I'm Sadham Hussain R
+ Hi, I'm Sadham Hussain R
 
- 🐍 Python Full Stack Developer | Django | REST APIs | React | SQL
+ Python Full Stack Developer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Developer-green?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-APIs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 I'm an aspiring **Python Full Stack Developer** passionate about building responsive, user-focused web applications and solving real-world problems through technology.
 
-I work with **Python, Django, REST APIs, SQL, JavaScript, React.js, HTML, CSS, and FastAPI**, with additional experience in UI/UX design using Figma.
+I work with **Python, Django, REST APIs, SQL, JavaScript, React.js, HTML5, CSS3, FastAPI and Bootstrap**, with an additional interest in **UI/UX design using Figma**.
 
 ---
 
-🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Master of Computer Applications (MCA)
-- 💻 Python Full Stack Developer
-- 🐍 Focused on Python & Django development
+- 🐍 Python Full Stack Developer
+- 🌐 Interested in full-stack web development
+- ⚡ Focused on Python and Django development
 - 🔗 Interested in REST API development
-- 🎨 Interested in UI/UX and user-centered design
 - 🗄️ Working with SQL and MySQL
-- 🌐 Building responsive web applications
-- 🔍 Interested in backend development and software engineering
+- ⚛️ Frontend experience with React.js and JavaScript
+- 🎨 Interested in UI/UX and user-centered design
+- 🧪 API testing with Postman
+- 🚀 Interested in building and deploying real-world applications
 - 📚 Continuously learning and improving my development skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,fastapi,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap" />
 </p>
 
-### Database & APIs
+### Database & API
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- REST APIs
-- SQL
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+</p>
 
-### Tools
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
@@ -56,13 +65,36 @@ I work with **Python, Django, REST APIs, SQL, JavaScript, React.js, HTML, CSS, a
 
 # 🚀 Featured Projects
 
+## 🎓 Placement Drive Management System
+
+**Python • Django • SQL • HTML5 • CSS3 • JavaScript • Render**
+
+A web application designed to streamline campus placement activities for educational institutions.
+
+### Features
+
+- 👨‍🎓 Student management
+- 🏢 Company management
+- 💼 Placement drive management
+- 📝 Student applications
+- 📊 Admin dashboard
+- 🔎 Search and filtering
+- 📅 Placement drive scheduling
+- 🚀 Web deployment
+
+### Technologies
+
+`Python` `Django` `SQL` `HTML5` `CSS3` `JavaScript` `Render`
+
+---
+
 ## 🎁 GiftHub.sale
 
-**Python | Django | MySQL | React.js | JavaScript | REST API**
+**Python • Django • MySQL • React.js • JavaScript • REST API**
 
-A full-stack digital gift card and voucher e-commerce platform.
+A full-stack digital gift card and voucher e-commerce platform developed as a freelance project.
 
-### Key Features
+### Features
 
 - 🔐 OTP-based authentication
 - 📧 SMTP email integration
@@ -71,82 +103,80 @@ A full-stack digital gift card and voucher e-commerce platform.
 - 🎟️ Voucher management
 - 📦 Order tracking
 - 🛠️ Admin panel
-- 🔗 REST APIs
+- 🔗 REST API development
 - 🗄️ MySQL database
 
----
+### Technologies
 
-## 🎓 Placement Drive Management System
-
-**Python | Django | SQL | JavaScript | HTML | CSS | Render**
-
-A web application designed to streamline campus placement activities.
-
-### Key Features
-
-- 👨‍🎓 Student management
-- 🏢 Company management
-- 💼 Placement drive management
-- 📝 Student applications
-- 📊 Admin dashboard
-- 🔎 Search and filtering
-- 📅 Drive scheduling
-- 🚀 Deployment using Render
+`Python` `Django` `MySQL` `React.js` `JavaScript` `REST API`
 
 ---
 
 ## 👁️ Real-Time Action Identification System
 
-**Python | OpenCV | MediaPipe | Machine Learning | Twilio**
+**Python • OpenCV • MediaPipe • Machine Learning • Twilio**
 
-A real-time computer vision application for identifying human activities and detecting falls.
+A real-time computer vision system for human activity identification and fall detection.
 
-### Key Features
+### Features
 
 - 📷 Real-time camera processing
 - 🧍 Human activity recognition
 - 🚨 Fall detection
 - 📍 Geolocation support
 - 💬 WhatsApp alerts
-- 📞 Emergency notification
-- 🤖 Computer vision based processing
+- 📞 Emergency notifications
+- 🤖 Computer vision processing
+
+### Technologies
+
+`Python` `OpenCV` `MediaPipe` `Machine Learning` `Twilio`
 
 ---
 
 ## 📱 Online Auction System
 
-**Java | XML | Firebase**
+**Java • XML • Firebase**
 
-An Android application designed for online bidding and auction management.
+An Android application for online bidding and auction management.
 
-### Key Features
+### Features
 
 - 🔐 Firebase authentication
-- 🛒 Product listings
+- 🛍️ Product listings
 - 💰 Real-time bidding
 - 📊 Bidding history
 - 🔥 Firebase Realtime Database
+
+### Technologies
+
+`Java` `XML` `Firebase`
 
 ---
 
 # 💼 Experience
 
-### Freelance Python Backend Developer
+## Freelance Python Backend Developer
 
-**Apr 2026 – Jun 2026**
+**Self-Employed | Apr 2026 – Jun 2026**
 
-- Developed and deployed a full-stack digital gift card and voucher platform.
-- Worked with Python, Django, MySQL, React.js and JavaScript.
-- Integrated OTP authentication and Razorpay payments.
+- Developed and deployed a full-stack digital gift card and voucher e-commerce platform.
+- Worked with Python, Django, MySQL, React.js, HTML, CSS and JavaScript.
+- Integrated OTP-based authentication using SMTP mail services.
+- Integrated Razorpay for online payments.
+- Developed an administration panel for users, vouchers and orders.
 - Developed REST APIs and tested endpoints using Postman.
-- Built an admin panel for managing users, vouchers and orders.
+- Worked on database query optimization.
 
-### Frontend Developer Intern — IBM SkillsBuild
+---
 
-**Jun 2024 – Jul 2024**
+## Frontend Developer Intern
+
+### IBM SkillsBuild | Jun 2024 – Jul 2024
 
 - Developed responsive web pages using React.js, HTML, CSS and JavaScript.
-- Worked on responsive and accessible interfaces.
+- Improved responsive design and accessibility.
+- Worked on cross-browser compatible interfaces.
 - Built reusable frontend components.
 - Collaborated on web development projects.
 
@@ -154,19 +184,21 @@ An Android application designed for online bidding and auction management.
 
 # 🎓 Education
 
-### Master of Computer Applications
+### Master of Computer Applications — MCA
 
-**B.S. Abdur Rahman Crescent Institute of Science and Technology**
+**B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai**
 
-2023 – 2025
+**2023 – 2025**
 
 **CGPA: 8.26 / 10**
 
-### Bachelor of Computer Applications
+---
 
-**Bharath Institute of Higher Education and Research**
+### Bachelor of Computer Applications — BCA
 
-2020 – 2023
+**Bharath Institute of Higher Education and Research, Chennai**
+
+**2020 – 2023**
 
 **CGPA: 8.16 / 10**
 
@@ -185,16 +217,16 @@ An Android application designed for online bidding and auction management.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 📈 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sadham1412&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sadham1412&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -206,34 +238,50 @@ An Android application designed for online bidding and auction management.
 - 🔗 REST API Development
 - ⚡ FastAPI
 - ⚛️ React.js
-- 🗄️ SQL & Database Design
+- 🗄️ SQL and Database Development
 - 🚀 Web Application Deployment
-- 🤖 AI & Intelligent Applications
+- 🤖 AI-powered application development
 
 ---
 
-# 🎯 What I'm Working On
+# 🎯 What I'm Building
 
-I'm currently focused on building practical web applications using **Python, Django, REST APIs, SQL and modern frontend technologies**.
+I'm focused on building practical applications that combine:
 
-I'm also exploring **AI-powered applications and intelligent automation** to build useful real-world solutions.
+```text
+Python
+   +
+Django
+   +
+REST APIs
+   +
+SQL
+   +
+Modern Frontend
+   =
+Real-World Web Applications
+```
+
+I'm particularly interested in creating applications that are **useful, responsive, maintainable and user-friendly**.
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/sadham-hussain">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="left">
 
-  <a href="https://sadhamportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
+<a href="https://www.linkedin.com/in/sadham-hussain">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:sadhamhussain.cbcs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://sadhamportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:sadhamhussain.cbcs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
