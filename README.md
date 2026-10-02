@@ -1,561 +1,173 @@
-Absolutely. Below is a **complete premium `README.md`** for your `Sadham1412` GitHub profile, designed to look like the UI concept we generated: dark, modern, structured, and recruiter-friendly.
-
-It is based on the information in your resume, including your Python/Django stack, GiftHub.sale, IBM SkillsBuild experience, placement system, action identification project, auction system, education and certifications. Sadham_Hussain_Resume (1)
-
-**Replace everything inside your current `README.md` with this:**
-
-```markdown
-<!-- ========================================================= -->
-<!--                    SADHAM1412 PROFILE                     -->
-<!-- ========================================================= -->
-
+<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-# 👋 Hi, I'm Sadham Hussain R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sadham%20Hussain%20R&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-### 🐍 Python Full Stack Developer
-
-<p>
-  <a href="https://github.com/Sadham1412">
-    <img src="https://img.shields.io/badge/GitHub-Sadham1412-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sadham-hussain">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://sadhamportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-<br>
-
-> **Building responsive, user-focused web applications and solving real-world problems with technology.**
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Who I Am
-
-- 🐍 Python Full Stack Developer
-- 🌐 Interested in full-stack web development
-- ⚡ Focused on Python & Django
-- 🔗 Interested in REST API development
-- 🗄️ Working with SQL & MySQL
-- ⚛️ Frontend experience with React.js
-- 🎨 Interested in UI/UX design
-- 🧪 API testing with Postman
-- 🚀 Interested in application deployment
-- 📚 Always learning and improving
-
-</td>
-
-<td width="50%">
-
-### 🎯 My Focus
-
-```text
-Frontend
-   ↓
-HTML • CSS • JavaScript • React
-   ↓
-Backend
-   ↓
-Python • Django • FastAPI
-   ↓
-API
-   ↓
-REST API
-   ↓
-Database
-   ↓
-SQL • MySQL
-   ↓
-Deployment
-   ↓
-Real-World Applications
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-
-<br><br>
-
-### ⚙️ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=django,react,fastapi,bootstrap" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎓 Placement Drive Management System
-
-**Python • Django • SQL • JavaScript**
-
-A web application designed to streamline campus placement activities for educational institutions.
-
-### ✨ Features
-
-- 👨‍🎓 Student management
-- 🏢 Company management
-- 💼 Placement drive management
-- 📝 Student applications
-- 📊 Admin dashboard
-- 🔎 Search & filtering
-- 📅 Drive scheduling
-- 🚀 Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-<a href="https://github.com/Sadham1412/placement-drive-management-system">
-View Repository →
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+Django+%26+React;Designing+clean+REST+APIs;Shipping+real+products%2C+not+just+tutorials;Exploring+AI-powered+applications" alt="Typing SVG" />
 </a>
 
-</td>
+<br/>
 
-<td width="50%" valign="top">
+<a href="https://sadhamportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sadham-hussain"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sadhamhussain.cbcs@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sadham1412&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-## 🎁 GiftHub.sale
+</div>
 
-**Python • Django • MySQL • React**
+---
 
-A full-stack digital gift card and voucher e-commerce platform developed as a freelance project.
+## 👨‍💻 About Me
 
-### ✨ Features
+Hi, I'm **Sadham** 👋 — a **Python Full Stack Developer** from Chennai with an MCA degree (CGPA 8.26) and hands-on experience shipping real web applications.
 
-- 🔐 OTP authentication
-- 📧 SMTP email integration
-- 💳 Razorpay payment
-- 👤 User management
-- 🎟️ Voucher management
-- 📦 Order tracking
-- 🛠️ Admin panel
-- 🔗 REST APIs
+I build **Django + React** products end to end: database design, REST APIs, secure authentication, payment integration, and responsive UIs — and I deploy them.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
+```python
+class SadhamHussain:
+    role      = "Python Full Stack Developer"
+    location  = "Chennai, India 🇮🇳"
+    education = "MCA — B.S. Abdur Rahman Crescent Institute"
+    stack     = ["Python", "Django", "FastAPI", "React", "MySQL", "REST APIs"]
+    learning  = ["Advanced Python", "FastAPI", "System Design", "AI-powered apps"]
+    open_to   = "Full-time roles • Freelance projects • Collaboration"
+```
 
-</td>
+---
 
-</tr>
+## 🛠️ Tech Stack
 
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Deployment** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-## 👁️ Real-Time Action Identification
+</div>
 
-**Python • OpenCV • MediaPipe • ML**
+---
 
-A real-time computer vision system for human activity identification and fall detection.
+## 🚀 Featured Projects
 
-### ✨ Features
+### 🎁 [GiftHub.sale](https://gifthub.sale) &nbsp;`Live` `Freelance`
+A full-stack **digital gift card & voucher e-commerce platform**, built and deployed end to end.
 
-- 📷 Real-time camera processing
-- 🧍 Human activity recognition
-- 🚨 Fall detection
+- 🔐 OTP-based authentication via SMTP email
+- 💳 Razorpay payment gateway integration
+- 🛠️ Admin panel for users, voucher listings and order tracking
+- 🔗 REST APIs tested with Postman, SQL queries optimized
+
+`Python` `Django` `MySQL` `React.js` `REST API` `Razorpay`
+
+---
+
+### 🎓 Placement Drive Management System &nbsp;`Deployed on Render`
+A web app that helps colleges and academies run campus recruitment drives.
+
+- 👨‍🎓 Student, company and placement drive management
+- 📝 Student applications with search and filtering
+- 📅 Drive scheduling and an admin dashboard
+
+`Python` `Django` `SQL` `HTML5` `CSS3` `JavaScript`
+
+---
+
+### 👁️ Real-Time Action Identification System
+Computer-vision system that recognizes human activity from a live camera feed and **detects falls**, sending emergency alerts.
+
+- 🧍 Activity recognition with OpenCV + MediaPipe
+- 🚨 Fall detection with WhatsApp / emergency notifications (Twilio)
 - 📍 Geolocation support
-- 💬 WhatsApp alerts
-- 📞 Emergency notifications
-- 🤖 Computer vision
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
-</p>
-
-<a href="https://github.com/Sadham1412">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📱 Online Auction System
-
-**Java • XML • Firebase**
-
-An Android application for online bidding and auction management.
-
-### ✨ Features
-
-- 🔐 Firebase authentication
-- 🛍️ Product listings
-- 💰 Real-time bidding
-- 📊 Bidding history
-- 🔥 Firebase Realtime Database
-- 📱 Android application
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-</td>
-
-</tr>
-</table>
+`Python` `OpenCV` `MediaPipe` `Machine Learning` `Twilio`
 
 ---
 
-# 💼 Experience
+### 📱 Online Auction System
+Android app for real-time bidding and auction management.
 
-<table>
-<tr>
-<td width="80">
+- 🔐 Firebase Authentication • 💰 Real-time bidding • 📊 Bid history
 
-### 💻
-
-</td>
-<td>
-
-## Freelance Python Backend Developer
-
-**Self-Employed**
-
-`Apr 2026 – Jun 2026`
-
-- Developed and deployed a full-stack digital gift card and voucher e-commerce platform.
-- Worked with Python, Django, MySQL, React.js, HTML, CSS and JavaScript.
-- Integrated OTP-based authentication using SMTP.
-- Integrated Razorpay for online payments.
-- Developed an administration panel.
-- Developed REST APIs and tested endpoints using Postman.
-- Worked on database query optimization.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌐
-
-</td>
-<td>
-
-## Frontend Developer Intern
-
-**IBM SkillsBuild**
-
-`Jun 2024 – Jul 2024`
-
-- Developed responsive web pages using React.js, HTML, CSS and JavaScript.
-- Worked on responsive and accessible interfaces.
-- Improved cross-browser compatibility.
-- Built reusable frontend components.
-- Collaborated on web development projects.
-
-</td>
-</tr>
-</table>
+`Java` `XML` `Firebase`
 
 ---
 
-# 🎓 Education
+## 💼 Experience
 
-<table>
-<tr>
-<td width="50%">
+| Role | Company | Period |
+|:--|:--|:--|
+| **Freelance Python Backend Developer** | Self-Employed | Apr 2026 – Jun 2026 |
+| **Frontend Developer Intern** | IBM SkillsBuild | Jun 2024 – Jul 2024 |
 
-## 🎓 Master of Computer Applications
+<details>
+<summary><b>📖 See what I did</b></summary>
 
-**B.S. Abdur Rahman Crescent Institute of Science and Technology**
+<br/>
 
-📅 2023 – 2025
+**Freelance Python Backend Developer**
+- Built and deployed GiftHub.sale with Django, MySQL and React.js
+- Implemented OTP authentication, Razorpay payments and an admin panel
+- Designed REST APIs, tested them in Postman and optimized SQL queries
 
-### CGPA: 8.26 / 10
+**Frontend Developer Intern — IBM SkillsBuild**
+- Built responsive, accessible pages with React.js, HTML, CSS and JavaScript
+- Created reusable components and improved cross-browser compatibility
 
-</td>
-
-<td width="50%">
-
-## 🎓 Bachelor of Computer Applications
-
-**Bharath Institute of Higher Education and Research**
-
-📅 2020 – 2023
-
-### CGPA: 8.16 / 10
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-# 📜 Certifications
+## 🎓 Education & Certifications
 
-<table>
-<tr>
-<td>
-
-🎓 **Full Stack Web Development in Python**  
-Softlogic Academy
-
-</td>
-<td>
-
-💻 **IBM SkillsBuild**  
-Frontend Web Development
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-☁️ **Cloud Computing**
-
-</td>
-<td>
-
-🤖 **Machine Learning**
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-🎨 **UI/UX Design Fundamentals**
-
-</td>
-</tr>
-</table>
+- 🎓 **MCA** — B.S. Abdur Rahman Crescent Institute of Science and Technology · 2023–2025 · **8.26 CGPA**
+- 🎓 **BCA** — Bharath Institute of Higher Education and Research · 2020–2023 · **8.16 CGPA**
+- 📜 Full Stack Web Development in Python — *Softlogic Academy*
+- 📜 Frontend Web Development — *IBM SkillsBuild*
+- 📜 Cloud Computing • Machine Learning • UI/UX Design Fundamentals
 
 ---
 
-# 📊 GitHub Analytics
+## 🌱 Currently Learning
+
+`Advanced Python` `FastAPI` `Database Design` `Web App Deployment` `AI-powered Applications`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sadham1412&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham1412&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<br/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadham1412&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Sadham1412&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+## 📫 Let's Connect
+
+I'm open to **full-time Python / Django roles** and **freelance projects**. If you have an idea or an opportunity, I'd love to hear from you.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadham1412&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<a href="https://sadhamportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sadham-hussain"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sadhamhussain.cbcs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
----
+**Build • Learn • Create • Improve** 🚀
 
-# 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center">🐍<br><b>Advanced Python</b></td>
-<td align="center">🌐<br><b>Django</b></td>
-<td align="center">🔗<br><b>REST APIs</b></td>
-<td align="center">⚡<br><b>FastAPI</b></td>
-</tr>
-
-<tr>
-<td align="center">⚛️<br><b>React.js</b></td>
-<td align="center">🗄️<br><b>SQL</b></td>
-<td align="center">🚀<br><b>Deployment</b></td>
-<td align="center">🤖<br><b>AI Applications</b></td>
-</tr>
-</table>
-
----
-
-# 🎯 What I'm Building
-
-<div align="center">
-
-### 💡 Turning Ideas Into Real Applications
-
-```text
-                 💡 IDEA
-                    │
-                    ▼
-             🎨 UI / UX DESIGN
-                    │
-                    ▼
-             ⚛️ FRONTEND
-                    │
-                    ▼
-              🐍 PYTHON
-                    │
-                    ▼
-              🌐 DJANGO
-                    │
-                    ▼
-              🔗 REST API
-                    │
-                    ▼
-              🗄️ DATABASE
-                    │
-                    ▼
-              🚀 DEPLOYMENT
-                    │
-                    ▼
-           🌍 REAL-WORLD APP
-```
-
-</div>
-
----
-
-# 🧩 Development Philosophy
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎨
-
-**User Focused**
-
-Building simple and intuitive experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Problem Solving**
-
-Turning real-world problems into practical solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Clean Development**
-
-Writing maintainable and structured applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📚
-
-**Continuous Learning**
-
-Always improving my technical skills.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sadham-hussain">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://sadhamportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:sadhamhussain.cbcs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 Build • Learn • Create • Improve 🚀
-
-**Thanks for visiting my profile!**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sadham1412&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
