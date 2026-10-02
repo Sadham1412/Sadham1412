@@ -233,7 +233,6 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ocean&height=2" width="100%" />
 
 <!-- ============================= CONTACT ============================= -->
 
