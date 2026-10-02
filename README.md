@@ -222,14 +222,6 @@ timeline
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadham1412&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sadham1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-<br/><br/>
-
 
 </div>
 
