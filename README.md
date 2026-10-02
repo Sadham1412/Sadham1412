@@ -232,7 +232,7 @@ timeline
 
 <div align="center">
 
-I'm open to **full-time Python / Django roles** and **freelance projects**.<br/>
+I'm open to full-time Python / Django roles and freelance projects.<br/>
 Have an idea or an opportunity? I'd love to hear from you.
 
 <br/>
@@ -245,11 +245,7 @@ Have an idea or an opportunity? I'd love to hear from you.
 |:--:|:--:|:--:|
 | [linkedin.com/in/sadham-hussain](https://www.linkedin.com/in/sadham-hussain) | [github.com/Sadham1412](https://github.com/Sadham1412) | [sadhamportfolio.vercel.app](https://sadhamportfolio.vercel.app) |
 
-<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Improve+%F0%9F%9A%80" alt="Thanks" />
 
