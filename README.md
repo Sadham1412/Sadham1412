@@ -29,22 +29,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
 
-<!-- ============================ ABOUT ============================ -->
+<!-- ====================== PROFESSIONAL SUMMARY ====================== -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 Professional Summary</h2>
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-Hi, I'm **Sadham** — a **Python Full Stack Developer** from **East Tambaram, Chennai** with an **MCA (CGPA 8.26)** and hands-on experience delivering real web applications.
-
-I'm strong across **frontend & backend development, REST API design, database management** and software engineering principles. I build responsive, user-centric apps, deploy them end to end, and have handled **client-focused freelance projects** from idea to production.
-
-> 💡 *"Build • Learn • Create • Improve"*
+Aspiring **Python Full Stack Developer** with a strong foundation in frontend and backend development, REST API design, database management, and software engineering principles. Proficient in **Python, Django, REST APIs, SQL, JavaScript, React.js, HTML5, CSS3**, and modern web frameworks. Experienced in designing responsive, user-centric applications, deploying end-to-end web solutions, and managing client-focused freelance projects.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ```python
 class SadhamHussain:
@@ -63,112 +59,108 @@ class SadhamHussain:
 </tr>
 </table>
 
-<h3 align="center">🔭 Right Now</h3>
-
-<div align="center">
-
-| 🔭 Working on | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
-|:--:|:--:|:--:|:--:|
-| Full-stack web apps & AI-powered tools | FastAPI • Advanced Python • DB design | Django • React • REST APIs • Deployment | I shipped a live e-commerce platform as a freelancer |
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
 
 <!-- =========================== TECH STACK =========================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,bootstrap,java&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,bootstrap,mysql&theme=dark&perline=9" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,postman,figma,vscode,vercel,opencv&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=9" />
 
 <br/><br/>
 
 | 🧠 Category | ⚙️ Technologies |
 |:--|:--|
-| **Languages** | `Python` `JavaScript` `SQL` `HTML5` `CSS3` `Java` |
-| **Backend** | `Django` `FastAPI` `REST APIs` `OTP Auth (SMTP)` |
-| **Frontend** | `React.js` `Bootstrap` `Responsive UI` `Reusable Components` |
-| **Database & Services** | `MySQL` `Firebase` `Razorpay` `Twilio` |
-| **AI / Computer Vision** | `OpenCV` `MediaPipe` `Machine Learning` |
-| **Tools & Deployment** | `Git` `GitHub` `Postman` `Figma` `VS Code` `Hostinger` `Render` `Vercel` |
+| **Languages** | `Python` `JavaScript` `SQL` `HTML5` `CSS3` |
+| **Frameworks & Libraries** | `Django` `React.js` `FastAPI` `Bootstrap` |
+| **Databases & Web Services** | `MySQL` `SQL` `REST APIs` |
+| **Tools & Platforms** | `Postman` `Git` `GitHub` `VS Code` `Figma` |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
 
+<!-- ============================ EXPERIENCE ============================ -->
+
+<h2 align="center">💼 Professional & Internship Experience</h2>
+
+### 🧑‍💻 Freelance Python Backend Developer
+**Self-Employed** &nbsp;·&nbsp; `Apr 2026 – Jun 2026`
+
+- Developed and deployed **GiftHub.sale** on Hostinger, a full-stack digital gift card and voucher e-commerce platform using Python, Django, MySQL, React.js, HTML, CSS, and JavaScript.
+- Integrated secure OTP-based user authentication utilizing SMTP mail services alongside Razorpay payment gateway integration for secure online transactions.
+- Engineered a comprehensive admin panel to streamline user management, voucher listings, order tracking, and optimized SQL database query performance.
+- Designed robust REST APIs and thoroughly tested endpoints using Postman to ensure high performance, security, and reliability.
+
+### 🎨 Frontend Developer Intern
+**IBM SkillsBuild** &nbsp;·&nbsp; `Jun 2024 – Jul 2024`
+
+- Developed responsive web pages using React.js, HTML, CSS, and JavaScript.
+- Improved UI responsiveness, accessibility, and cross-browser compatibility across devices.
+- Built reusable frontend components and collaborated on web development projects.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
+
 <!-- ============================ PROJECTS ============================ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎁 GiftHub.sale
-<img src="https://img.shields.io/badge/status-LIVE-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/type-Freelance-blue?style=flat-square" /> <img src="https://img.shields.io/badge/host-Hostinger-673DE6?style=flat-square" />
+### 🎓 Placement Drive Management System
+<img src="https://img.shields.io/badge/status-DEPLOYED-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/host-Render-46E3B7?style=flat-square" />
 
-Full-stack **digital gift card & voucher e-commerce platform**, built and deployed end to end.
+`Python` `Django` `SQL` `HTML5` `CSS3` `JavaScript` `Render`
 
-- 🔐 OTP login via SMTP mail
-- 💳 Razorpay payment gateway
-- 🛠️ Admin panel: users, vouchers, orders
-- 🔗 REST APIs tested with Postman
-- 🗄️ Optimized SQL queries
-
-`Python` `Django` `MySQL` `React.js` `REST API`
-
-[🌐 **Visit Live Site →**](https://gifthub.sale)
+- Developed and deployed a web application tailored for educational institutions and academies to streamline campus recruitment drives.
+- Built an intuitive portal for students to explore upcoming placement drives, view job requirements, and submit applications.
+- Implemented an admin dashboard for placement officers and recruiters to post job opportunities, track student applications, and manage drive schedules using Django and SQL.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Placement Drive Management System
-<img src="https://img.shields.io/badge/status-DEPLOYED-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/host-Render-46E3B7?style=flat-square" />
+### 👁️ Real-Time Action Identification System
+<img src="https://img.shields.io/badge/domain-Computer%20Vision-orange?style=flat-square" /> <img src="https://img.shields.io/badge/safety-Fall%20Detection-red?style=flat-square" />
 
-Web app helping colleges & academies run **campus recruitment drives**.
+`Python` `OpenCV` `MediaPipe` `Machine Learning` `Twilio`
 
-- 👨‍🎓 Student portal: browse drives, apply
-- 📊 Admin dashboard for officers & recruiters
-- 📝 Application tracking & drive scheduling
-- 🔎 Search and filtering
-
-`Python` `Django` `SQL` `HTML5` `CSS3` `JavaScript`
+- Developed a real-time human activity recognition system using computer vision.
+- Implemented fall detection using pose estimation and machine learning techniques.
+- Integrated WhatsApp alerts and geolocation support using Twilio API.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Real-Time Action Identification
-<img src="https://img.shields.io/badge/domain-Computer%20Vision-orange?style=flat-square" /> <img src="https://img.shields.io/badge/safety-Fall%20Detection-red?style=flat-square" />
+### 📱 Online Auction System (Android Application)
+<img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-Recognizes human activity from a live camera feed and **detects falls**, then raises alerts.
+`Java` `XML` `Firebase`
 
-- 🧍 Pose estimation + ML
-- 🚨 Fall detection
-- 💬 WhatsApp alerts via Twilio
-- 📍 Geolocation support
-
-`Python` `OpenCV` `MediaPipe` `ML` `Twilio`
+- Developed an Android app for real-time online bidding and auction management.
+- Implemented secure user authentication using Firebase Authentication.
+- Managed real-time product listings, bidding, and history using Firebase Realtime Database.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Online Auction System
-<img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+### 🎁 GiftHub.sale (Freelance)
+<img src="https://img.shields.io/badge/status-LIVE-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/host-Hostinger-673DE6?style=flat-square" />
 
-Android app for **real-time bidding** and auction management.
+`Python` `Django` `MySQL` `React.js` `HTML` `CSS` `JavaScript`
 
-- 🔐 Firebase Authentication
-- 🛍️ Live product listings
-- 💰 Real-time bidding
-- 📊 Bid history (Realtime Database)
+- Full-stack digital gift card and voucher e-commerce platform deployed on Hostinger.
+- Secure OTP-based authentication via SMTP mail services and Razorpay payment gateway integration.
+- Admin panel for user management, voucher listings and order tracking, with REST APIs tested in Postman.
 
-`Java` `XML` `Firebase`
+[🌐 **Visit Live Site →**](https://gifthub.sale)
 
 </td>
 </tr>
@@ -176,7 +168,24 @@ Android app for **real-time bidding** and auction management.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
 
-<!-- ============================= JOURNEY ============================= -->
+<!-- ============================ EDUCATION ============================ -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| Degree | Institution | Year | CGPA |
+|:--|:--|:--:|:--:|
+| **Master of Computer Applications (MCA)** | B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai | 2023 – 2025 | **8.26 / 10** |
+| **Bachelor of Computer Applications (BCA)** | Bharath Institute of Higher Education and Research, Chennai | 2020 – 2023 | **8.16 / 10** |
+
+</div>
+
+<h2 align="center">📜 Certifications</h2>
+
+- ✅ **Full Stack Web Development in Python** (Completed) — Softlogic Academy (SLA), KK Nagar
+- ✅ **IBM SkillsBuild** — Frontend Web Development
+- ✅ Cloud Computing | Machine Learning | UI/UX Design Fundamentals
 
 <h2 align="center">🧭 My Journey</h2>
 
@@ -195,40 +204,6 @@ timeline
     2026 : Freelance Backend Developer
          : Shipped GiftHub.sale on Hostinger
 ```
-
-<details>
-<summary><b>💼 Experience details (click to expand)</b></summary>
-
-<br/>
-
-**🧑‍💻 Freelance Python Backend Developer** — *Self-Employed* · `Apr 2026 – Jun 2026`
-- Developed and deployed **GiftHub.sale** on Hostinger using Python, Django, MySQL, React.js, HTML, CSS and JavaScript
-- Integrated **OTP authentication** via SMTP and the **Razorpay** payment gateway
-- Built an admin panel for user management, voucher listings and order tracking; optimized SQL query performance
-- Designed REST APIs and tested endpoints thoroughly with Postman
-
-**🎨 Frontend Developer Intern** — *IBM SkillsBuild* · `Jun 2024 – Jul 2024`
-- Built responsive web pages with React.js, HTML, CSS and JavaScript
-- Improved UI responsiveness, accessibility and cross-browser compatibility
-- Created reusable frontend components and collaborated on web projects
-
-</details>
-
-<details>
-<summary><b>🎓 Education & Certifications (click to expand)</b></summary>
-
-<br/>
-
-| Degree | Institution | Year | CGPA |
-|:--|:--|:--:|:--:|
-| **MCA** | B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai | 2023 – 2025 | **8.26** |
-| **BCA** | Bharath Institute of Higher Education and Research, Chennai | 2020 – 2023 | **8.16** |
-
-- ✅ Full Stack Web Development in Python — *Softlogic Academy (SLA), KK Nagar*
-- ✅ IBM SkillsBuild — Frontend Web Development
-- ✅ Cloud Computing • Machine Learning • UI/UX Design Fundamentals
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2" width="100%" />
 
@@ -255,7 +230,7 @@ timeline
 
 <br/><br/>
 
-<!-- Contribution snake: needs the workflow in .github/workflows/snake.yml (see notes) -->
+<!-- Contribution snake: needs the workflow in .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadham1412/Sadham1412/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadham1412/Sadham1412/output/github-snake.svg" />
@@ -277,9 +252,13 @@ Have an idea or an opportunity? I'd love to hear from you.
 
 <br/>
 
-| 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 📍 Location |
-|:--:|:--:|:--:|:--:|
-| [sadhamhussain.cbcs@gmail.com](mailto:sadhamhussain.cbcs@gmail.com) | [sadham-hussain](https://www.linkedin.com/in/sadham-hussain) | [sadhamportfolio.vercel.app](https://sadhamportfolio.vercel.app) | East Tambaram, Chennai |
+| 📧 Email | 📞 Phone | 📍 Location |
+|:--:|:--:|:--:|
+| [sadhamhussain.cbcs@gmail.com](mailto:sadhamhussain.cbcs@gmail.com) | [+91 7448439991](tel:+917448439991) | East Tambaram, Chennai 600059 |
+
+| 💼 LinkedIn | 🐙 GitHub | 🌐 Portfolio |
+|:--:|:--:|:--:|
+| [linkedin.com/in/sadham-hussain](https://www.linkedin.com/in/sadham-hussain) | [github.com/Sadham1412](https://github.com/Sadham1412) | [sadhamportfolio.vercel.app](https://sadhamportfolio.vercel.app) |
 
 <br/>
 
